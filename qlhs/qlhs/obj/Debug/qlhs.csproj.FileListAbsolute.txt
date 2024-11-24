@@ -1,0 +1,7 @@
+D:\C#\qlhs\qlhs\bin\Debug\qlhs.exe.config
+D:\C#\qlhs\qlhs\bin\Debug\qlhs.exe
+D:\C#\qlhs\qlhs\bin\Debug\qlhs.pdb
+D:\C#\qlhs\qlhs\obj\Debug\qlhs.csproj.AssemblyReference.cache
+D:\C#\qlhs\qlhs\obj\Debug\qlhs.csproj.CoreCompileInputs.cache
+D:\C#\qlhs\qlhs\obj\Debug\qlhs.exe
+D:\C#\qlhs\qlhs\obj\Debug\qlhs.pdb
