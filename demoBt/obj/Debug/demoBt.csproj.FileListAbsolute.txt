@@ -1,0 +1,11 @@
+D:\C#\demoBt\obj\Debug\demoBt.csproj.AssemblyReference.cache
+D:\C#\demoBt\obj\Debug\demoBt.Properties.Resources.resources
+D:\C#\demoBt\obj\Debug\demoBt.csproj.GenerateResource.cache
+D:\C#\demoBt\obj\Debug\demoBt.csproj.CoreCompileInputs.cache
+D:\C#\demoBt\obj\Debug\demoBt.Form1.resources
+D:\C#\demoBt\obj\Debug\demoBt.Form2.resources
+D:\C#\demoBt\bin\Debug\demoBt.exe.config
+D:\C#\demoBt\bin\Debug\demoBt.exe
+D:\C#\demoBt\bin\Debug\demoBt.pdb
+D:\C#\demoBt\obj\Debug\demoBt.exe
+D:\C#\demoBt\obj\Debug\demoBt.pdb
