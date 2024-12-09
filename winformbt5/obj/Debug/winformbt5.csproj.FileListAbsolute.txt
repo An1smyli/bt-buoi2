@@ -1,0 +1,10 @@
+D:\C#\winformbt5\bin\Debug\winformbt5.exe.config
+D:\C#\winformbt5\bin\Debug\winformbt5.exe
+D:\C#\winformbt5\bin\Debug\winformbt5.pdb
+D:\C#\winformbt5\obj\Debug\winformbt5.csproj.AssemblyReference.cache
+D:\C#\winformbt5\obj\Debug\winformbt5.Form1.resources
+D:\C#\winformbt5\obj\Debug\winformbt5.Properties.Resources.resources
+D:\C#\winformbt5\obj\Debug\winformbt5.csproj.GenerateResource.cache
+D:\C#\winformbt5\obj\Debug\winformbt5.csproj.CoreCompileInputs.cache
+D:\C#\winformbt5\obj\Debug\winformbt5.exe
+D:\C#\winformbt5\obj\Debug\winformbt5.pdb
