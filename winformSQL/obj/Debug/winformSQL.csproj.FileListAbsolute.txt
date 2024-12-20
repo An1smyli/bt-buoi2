@@ -1,0 +1,15 @@
+D:\C#\winformSQL\bin\Debug\winformSQL.exe.config
+D:\C#\winformSQL\bin\Debug\winformSQL.exe
+D:\C#\winformSQL\bin\Debug\winformSQL.pdb
+D:\C#\winformSQL\bin\Debug\EntityFramework.dll
+D:\C#\winformSQL\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\winformSQL\bin\Debug\EntityFramework.xml
+D:\C#\winformSQL\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\winformSQL\obj\Debug\winformSQL.csproj.AssemblyReference.cache
+D:\C#\winformSQL\obj\Debug\winformSQL.Form1.resources
+D:\C#\winformSQL\obj\Debug\winformSQL.Properties.Resources.resources
+D:\C#\winformSQL\obj\Debug\winformSQL.csproj.GenerateResource.cache
+D:\C#\winformSQL\obj\Debug\winformSQL.csproj.CoreCompileInputs.cache
+D:\C#\winformSQL\obj\Debug\winformSQL.csproj.Up2Date
+D:\C#\winformSQL\obj\Debug\winformSQL.exe
+D:\C#\winformSQL\obj\Debug\winformSQL.pdb
