@@ -1,0 +1,15 @@
+D:\2287700015_NguyenHaiDuong\De01\bin\Debug\De01.exe.config
+D:\2287700015_NguyenHaiDuong\De01\bin\Debug\De01.exe
+D:\2287700015_NguyenHaiDuong\De01\bin\Debug\De01.pdb
+D:\2287700015_NguyenHaiDuong\De01\bin\Debug\EntityFramework.dll
+D:\2287700015_NguyenHaiDuong\De01\bin\Debug\EntityFramework.SqlServer.dll
+D:\2287700015_NguyenHaiDuong\De01\bin\Debug\EntityFramework.xml
+D:\2287700015_NguyenHaiDuong\De01\bin\Debug\EntityFramework.SqlServer.xml
+D:\2287700015_NguyenHaiDuong\De01\obj\Debug\De01.csproj.AssemblyReference.cache
+D:\2287700015_NguyenHaiDuong\De01\obj\Debug\De01.Form1.resources
+D:\2287700015_NguyenHaiDuong\De01\obj\Debug\De01.Properties.Resources.resources
+D:\2287700015_NguyenHaiDuong\De01\obj\Debug\De01.csproj.GenerateResource.cache
+D:\2287700015_NguyenHaiDuong\De01\obj\Debug\De01.csproj.CoreCompileInputs.cache
+D:\2287700015_NguyenHaiDuong\De01\obj\Debug\De01.csproj.Up2Date
+D:\2287700015_NguyenHaiDuong\De01\obj\Debug\De01.exe
+D:\2287700015_NguyenHaiDuong\De01\obj\Debug\De01.pdb
